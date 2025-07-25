@@ -5,11 +5,6 @@ The goal of this project is to analyze employee retention data to uncover insigh
   <img src="/screenshots/dashboard.jpg" width="800">
 </p>
 
-## Summary
-|     Jupyter Notebook                       |     Power BI Dashboard|     Published Article|    Deployed App on Hugging Face     
-| -------------                  | -------------    | -------------    |    -----------------    
-|[Notebook with analysis and model development](https://github.com/rasmodev/Employee-Attrition-Prediction/blob/main/notebooks/Employee_Attrition.ipynb)|  [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzFjZTk5NTctMWNkMS00ZTIzLWI4ZGYtYjEzZGU1MjAyOGFiIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |  [Published Article on Medium]() |[Link to Deployed Streamlit App](https://rasmodev-employee-attrition-prediction-app.hf.space)
-
 ## App Interface
 After clicking on the link to the working APP, provide the required details, and click on the **"PREDICT"** button.
 
@@ -107,24 +102,3 @@ To get started with the project, follow these steps:
 - jupyter
 - scikit-learn
 
-## Contributing
-
-Contributions to this project are welcome. If you have any suggestions or improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Author
-
-`Rasmo Wanyama`
-
-`Data Analyst/Data Scientist`
-
-Let's connect on LinkedIn:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmo-/) 
-
----
-
-Thank you for your interest in the Employee Retention Analysis Project! I hope our findings and recommendations help you improve employee retention and satisfaction within your organization.
